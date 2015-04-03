@@ -2,6 +2,8 @@ My name is David Profio. My hobbies include playing basketball, table tennis, an
 
 I graduated with my first Bachelor's degree in May of 2014. My degree was in Public Health with a concentration in Healthcare Administration. I had originally desired to work as a hospital administrator, but while working at my current company I had the opportunity to work with computers. That is when I realized I wanted to do this as a career. 
 
+I have enjoyed working as a junior developer while going to school. I have learned quite a bit at work which has helped me here at OSU. It also has helped me stay focused and driven on my schoolwork.
+
 Programming Background
 
 I currently work as a junior developer at an insurance company where I complete very basic .NET programming projects. I am enjoying the process of learning C#. My favorite project from work has been utilizing regular expressions to find and fix errors from the reading of invoices. 
