@@ -3,3 +3,5 @@ My name is David Profio. My hobbies include playing basketball, table tennis, an
 Programming Background
 
 I currently work as a junior developer at an insurance company where I complete very basic .NET programming projects. I am enjoying the process of learning C#. My favorite project from work has been utilizing regular expressions to find and fix errors from the reading of invoices. 
+
+I did enjoy learning C++ a great deal during CS 161 and CS 162. My favorite project from these courses was when we were required to program Conway's Game of Life. It was the first truly challenging program that I had to write. I understood the logic, but the process of formatting the output was difficult. 
